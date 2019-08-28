@@ -43,8 +43,7 @@ export default class SingleRoom extends Component {
       <Hero hero="roomsHero">
         <Banner title={`${name} room`}>
           <Link to="/rooms" className="btn-primary">
-            Back to rooms 
-            
+            Back to rooms
           </Link>
         </Banner>
       </Hero>
